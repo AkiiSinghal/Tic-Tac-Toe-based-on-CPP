@@ -1,5 +1,5 @@
 # Tic-Tac-Toe-based-on-CPP
-It is a mini project on a well known game called Tic-Tac-Toe. With some basic scoure board like additional feature.
+It is a mini project on a well known game called Tic-Tac-Toe. With some basic score board like additional feature.
 
 # Screenshots
 
